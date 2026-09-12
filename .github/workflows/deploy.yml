@@ -16,14 +16,6 @@ jobs:
     steps:
     - uses: actions/checkout@v7
 
-    - name: Prepare
-      run: |
-        git clone https://github.com/gurukulams/design-system.git design-system
-        cp design-system/package-lock.json .
-        cd design-system
-        rm package-lock.json
-        cp -rf ../questions questions
-
     - name: Set up Node.js
       uses: actions/setup-node@v7
       with:
@@ -32,14 +24,16 @@ jobs:
 
     - name: Build
       run: |
-        cd design-system
+        export QUESTIONS_FOLDER="$PWD/questions"
+        git clone https://github.com/gurukulams/practice-js.git
+        cd practice-js
         npm i
         npm run build:questions
 
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
       with:
-        path: design-system/dist
+        path: practice-js/dist
 
   # Deployment job
   deploy:
