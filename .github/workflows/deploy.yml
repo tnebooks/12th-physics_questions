@@ -15,17 +15,21 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v7
+    
+    - name: Prepare
+      run: |
+        export QUESTIONS_FOLDER="$PWD/questions"
+        git clone https://github.com/gurukulams/practice-js.git
 
     - name: Set up Node.js
       uses: actions/setup-node@v7
       with:
         node-version: ${{ env.NODE_VERSION }}
         cache: 'npm'
+        cache-dependency-path: 'practice-js/package-lock.json'
 
     - name: Build
       run: |
-        export QUESTIONS_FOLDER="$PWD/questions"
-        git clone https://github.com/gurukulams/practice-js.git
         cd practice-js
         npm i
         npm run build:questions
