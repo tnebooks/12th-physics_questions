@@ -1,52 +1,18 @@
+# Sample workflow for building and deploying a Hugo site to GitHub Pages
 name: Deploy Questions
 
 on:
+  # Runs on pushes targeting the default branch
   push:
-    branches:
-      - main
-      
-permissions:
-  contents: read
-  pages: write
-  id-token: write
+    branches: ["main"]
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v7
-    
-    - name: Prepare
-      run: |
-        git clone https://github.com/gurukulams/practice-js.git
-
-    - name: Set up Node.js
-      uses: actions/setup-node@v7
-      with:
-        node-version: ${{ env.NODE_VERSION }}
-        cache: 'npm'
-        cache-dependency-path: 'practice-js/package-lock.json'
-
-    - name: Build
-      run: |
-        export QUESTIONS_FOLDER="$PWD/questions"
-        cd practice-js
-        npm i
-        npm run build:questions
-
-    - name: Upload artifact
-      uses: actions/upload-pages-artifact@v3
-      with:
-        path: practice-js/dist
-
-  # Deployment job
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+  call-workflow:
+    # You must add these permissions so the called workflow can deploy
+    permissions:
+      contents: read
+      id-token: write
+      packages: read
+      pages: write      # Required if deploying to GitHub Pages
+    uses: gurukulams/design-system/.github/workflows/questions-deploy.yml@main
+    secrets: inherit # If the sub-workflow needs access to secrets
