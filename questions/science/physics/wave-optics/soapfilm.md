@@ -9,7 +9,9 @@ answers:
 
 **When light is incident on a soap film of thickness $5 \times 10^{-3}\text{ cm}$, the wavelength of light reflected maximum in the visible region is $5320\text{ \AA}$. Refractive index of the film will be,**
 
-```markdown
+---
+
+
 For a thin soap film in air, reflection occurs at both the top (air-to-film) and bottom (film-to-air) surfaces. The top reflection undergoes a $\pi$ phase shift. Therefore, the condition for **maximum reflection** (constructive interference) in reflected light is given by:
 
 $$2\mu t \cos r = (2n + 1)\frac{\lambda}{2}$$
@@ -37,5 +39,3 @@ $$\mu = \frac{5 \times 5.32 \times 10^{-7}}{4 \times 5 \times 10^{-7}} = \frac{2
 Since the refractive index of a water/soap solution is typically around $1.33$, this is the physically meaningful and correct value.
 
 Therefore, the refractive index of the soap film is **$1.33$**.
-
-```

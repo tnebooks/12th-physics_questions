@@ -12,7 +12,9 @@ answers:
 
 ![](qns-5.png)
 
-```markdown
+---
+
+
 According to Gauss's law, electric flux (Φ) through a closed surface is given by:
 Φ = Q_enc / ε₀
 
@@ -30,4 +32,3 @@ Thus, the increasing order of electric flux (smallest to largest) is:
 D < C < B < A
 
 Therefore, the correct answer is **D < C < B < A**.
-```

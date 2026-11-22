@@ -9,7 +9,9 @@ answers:
 
 **The wavelength λₑ of an electron and λₚ of a photon of same energy E are related by**
 
-```markdown
+---
+
+
 Energy of electron:
 E = p²/2m = h²/(2mλₑ²)  (since p = h/λ)
 
@@ -25,4 +27,3 @@ h²/(2mλₑ²) = hc/λₚ
 Therefore, λₚ ∝ λₑ²
 
 Correct answer: **λₚ ∝ λₑ²**
-```

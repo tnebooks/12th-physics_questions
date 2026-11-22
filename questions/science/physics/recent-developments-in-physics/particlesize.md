@@ -9,7 +9,9 @@ answers:
 
 **The particle size of ZnO material is 30 nm. Based on the dimension it is classified as**
 
-```markdown
+---
+
+
 The particle size of ZnO (Zinc Oxide) is **30 nm**. Since it falls within the **nanoscale range** (1–100 nm), it is classified as a **"Nanomaterial"**.
 
 - **Nanomaterial** — Materials with at least one dimension in the range of 1–100 nm.
@@ -20,4 +22,3 @@ The particle size of ZnO (Zinc Oxide) is **30 nm**. Since it falls within the **
 Since 30 nm is within the 1–100 nm range, ZnO is a nanomaterial.
 
 Therefore, the correct answer is **"Nanomaterial"**.
-```

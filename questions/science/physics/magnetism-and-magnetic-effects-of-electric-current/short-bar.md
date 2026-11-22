@@ -9,7 +9,9 @@ answers:
 
 **Two short bar magnets have magnetic moments 1.20 Am² and 1.00 Am² respectively. They are kept on horizontal table parallel to each other with their north poles pointing towards south. They have a common magnetic equator and are separated by a distance of 20.0 cm. The value of the resultant horizontal magnetic induction at the mid-point O of the line joining their centres is (Horizontal components of Earth’s magnetic induction is 3.6 × 10⁻⁵ Wb m⁻²)**
 
-```markdown
+---
+
+
 **Step 1: Understand the geometry**
 
 - Both magnets are parallel with their north poles pointing towards south.
@@ -46,4 +48,3 @@ Since both the magnet's field and Earth's field act in the same direction:
 B_resultant = B_magnets + B_H = 2.20 × 10⁻⁴ + 0.36 × 10⁻⁴ = 2.56 × 10⁻⁴ T
 
 Therefore, the resultant horizontal magnetic induction at O is **2.56 × 10⁻⁴ Wb m⁻²**.
-```

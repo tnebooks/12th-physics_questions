@@ -11,7 +11,9 @@ answers:
 
 ![](qns-2.png)
 
-```markdown
+---
+
+
 To find the resistance, we use Ohm's law:  
 **R = V / I**
 
@@ -24,4 +26,3 @@ Slope = ΔV / ΔI = 2 ohm
 Thus, the resistance of the conductor is **2 ohm**.
 
 Answer: 2 ohm
-```

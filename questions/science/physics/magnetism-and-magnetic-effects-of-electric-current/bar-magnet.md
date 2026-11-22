@@ -11,7 +11,9 @@ answers:
 
 ![](qns-9.png)
 
-```markdown
+---
+
+
 The magnetic dipole moment (M) = pole strength (q_m) × effective distance between poles.
 
 Initially, for a straight bar magnet of length l:
@@ -30,4 +32,3 @@ M_new = q_m × (2l/π) = (p_m / l) × (2l/π) = 2p_m / π
 Therefore, the new magnetic dipole moment = 2/π pm.
 
 (Note: The answer "3/π pm" given in the options appears to be incorrect based on standard physics. The correct derivation gives 2/π pm. If the arc is a different angle, the formula would be M_new = p_m × (2 sin(θ/2))/θ, where θ is the angle subtended. For a semicircle, θ = π, giving 2/π pm.)
-```

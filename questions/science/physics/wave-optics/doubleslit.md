@@ -9,7 +9,9 @@ answers:
 
 **In a Young’s double-slit experiment, the slit separation is doubled. To maintain the same fringe spacing on the screen, the screen-to-slit distance D must be changed to,**
 
-```markdown
+---
+
+
 
 In Young's double-slit experiment, the fringe width (fringe spacing) is given by:
 
@@ -37,4 +39,3 @@ $$D' = 2D$$
 Therefore, the screen-to-slit distance $D$ must be changed to **$2D$**.
 
 Correct answer: **$2D$**.
-```

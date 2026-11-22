@@ -11,7 +11,9 @@ answers:
 
 ![](qns-2.png)
 
-```markdown
+---
+
+
 When a conductor moves in a magnetic field, an emf is induced.
 
 For a straight conductor moving perpendicular to the magnetic field:
@@ -26,4 +28,3 @@ Due to the magnetic force on charges, the end R will be at a higher potential (d
 Therefore, the potential difference developed is **2rBv and R is at higher potential**.
 
 Correct answer: **2rBv and R is at higher potential**
-```

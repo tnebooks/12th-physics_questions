@@ -9,7 +9,9 @@ answers:
 
 **The temperature coefficient of resistance of a wire is 0.00125 per °C. At 20°C, its resistance is 1 Ω. The resistance of the wire will be 2 Ω at**
 
-```markdown
+---
+
+
 Given:
 - Temperature coefficient of resistance, α = 0.00125 /°C
 - Initial temperature, T₁ = 20°C
@@ -27,4 +29,3 @@ T₂ - 20 = 1 / 0.00125 = 800
 T₂ = 800 + 20 = 820°C
 
 Therefore, the resistance of the wire will be 2 Ω at **820 °C**.
-```

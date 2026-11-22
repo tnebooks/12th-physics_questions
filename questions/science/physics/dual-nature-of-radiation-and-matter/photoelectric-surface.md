@@ -9,7 +9,9 @@ answers:
 
 **A photoelectric surface is illuminated successively by monochromatic light of wavelength λ and λ/2. If the maximum kinetic energy of the emitted photoelectrons in the second case is 3 times that in the first case, the work function of the material is**
 
-```markdown
+---
+
+
 Einstein's photoelectric equation:
 K_max = hc/λ - φ
 
@@ -30,4 +32,3 @@ Given: K₂ = 3K₁
 Therefore, the work function of the material is **hc/2λ**.
 
 Correct answer: **hc/2λ**
-```

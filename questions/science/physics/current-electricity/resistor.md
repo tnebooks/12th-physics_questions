@@ -11,7 +11,9 @@ answers:
 
 ![](qns-5.png)
 
-```markdown
+---
+
+
 The question refers to a resistor with color bands (though the image/color sequence is not provided in the text).
 
 Using the standard resistor color code, if the bands are:
@@ -23,4 +25,3 @@ Using the standard resistor color code, if the bands are:
 Then the resistance value = 10 × 10⁴ = 100,000 Ω = **100 kΩ**
 
 Therefore, the correct answer is **100 kΩ**.
-```

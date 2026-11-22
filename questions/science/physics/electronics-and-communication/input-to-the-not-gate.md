@@ -9,7 +9,9 @@ answers:
 
 **If the input to the NOT gate is A = 1011, its output is**
 
-```markdown
+---
+
+
 A NOT gate (inverter) inverts each bit of the input signal.
 
 Given input A = 1011 (4 bits):
@@ -27,4 +29,3 @@ Let's verify the options:
 - 0100 → Correct
 
 Hence, the correct answer is **0100**.
-```

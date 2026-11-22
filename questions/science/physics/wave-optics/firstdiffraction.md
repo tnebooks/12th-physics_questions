@@ -9,7 +9,9 @@ answers:
 
 **First diffraction minimum due to a single slit of width 1.0 × 10⁻⁵ cm is at 30°.Then wavelength of light used is,**
 
-```markdown
+---
+
+
 
 For a single slit diffraction, the condition for the **first minimum** is:
 
@@ -39,5 +41,4 @@ $$\lambda = 5.0 \times 10^{-8} \text{ m} = 500 \text{ Å}$$
 Therefore, the wavelength of light used is **$500 \text{ Å}$**.
 
 Correct answer: **$500 \text{ Å}$**.
-```
 

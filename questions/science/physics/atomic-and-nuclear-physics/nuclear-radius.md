@@ -9,7 +9,9 @@ answers:
 
 **If the nuclear radius of ²⁷Al is 3.6 fermi, the approximate nuclear radius of ⁶⁴Cu in fermi is**
 
-```markdown
+---
+
+
 Nuclear radius is given by:  
 R = R₀ A^(1/3)
 
@@ -29,4 +31,3 @@ R₂ = 3.6 × (4/3) = 3.6 × 1.333 = 4.8 fermi
 Therefore, the nuclear radius of ⁶⁴Cu is **4.8 fermi**.
 
 Correct answer: **4.8**
-```

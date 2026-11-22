@@ -9,7 +9,9 @@ answers:
 
 **Two radiations with photon energies 0.9 eV and 3.3 eV respectively are falling on a metallic surface successively. If the work function of the metal is 0.6 eV, then the ratio of maximum speeds of emitted electrons in the two cases will be**
 
-```markdown
+---
+
+
 Photoelectric equation:
 K_max = E - φ
 
@@ -26,4 +28,3 @@ v₁/v₂ = √(K₁/K₂) = √(0.3/2.7) = √(1/9) = 1/3
 Therefore, v₁ : v₂ = 1 : 3
 
 Correct answer: **1:3**
-```

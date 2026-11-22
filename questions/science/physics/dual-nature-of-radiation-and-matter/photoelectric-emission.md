@@ -9,7 +9,9 @@ answers:
 
 **In photoelectric emission, a radiation whose frequency is 4 times threshold frequency of a certain metal is incident on the metal. Then the maximum possible velocity of the emitted electron will be**
 
-```markdown
+---
+
+
 Given:
 - Threshold frequency = ν₀
 - Incident frequency = 4ν₀
@@ -28,4 +30,3 @@ v_max = √(6hν₀/m)
 Therefore, the maximum possible velocity of the emitted electron is **√(6hν₀/m)**.
 
 Correct answer: **√(6hν₀/m)**
-```

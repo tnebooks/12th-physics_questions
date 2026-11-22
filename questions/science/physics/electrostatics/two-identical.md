@@ -11,7 +11,9 @@ answers:
 
 ![](qns-1.png)
 
-```markdown
+---
+
+
 At point P (midway between the two fixed –q charges), the net force on +q is zero because the attractive forces from the two –q charges are equal and opposite.
 
 Now consider small displacements:
@@ -25,4 +27,3 @@ Now consider small displacements:
 Thus, +q is stable only for displacements in the **B1 and B2** directions.
 
 Correct answer: **B1 and B2**
-```

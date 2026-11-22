@@ -8,7 +8,9 @@ answers:
 
 **The electric and the magnetic fields, associated with an electromagnetic wave, propagating along negative X axis can be represented by**
 
-```markdown
+---
+
+
 In an electromagnetic wave, the electric field (E), magnetic field (B), and the direction of propagation (v) are mutually perpendicular.
 
 The wave propagates along the negative X axis, i.e., direction = −î
@@ -25,4 +27,3 @@ Checking the options:
 Therefore, the correct representation is: **E = E₀ k̂ and B = B₀ ĵ**.
 
 Correct answer: **E=E₀k̂ and B= B₀ĵ**
-```

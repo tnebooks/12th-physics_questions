@@ -9,7 +9,9 @@ answers:
 
 **If E = E₀ sin[10⁶ x - ωt] be the electric field of a plane electromagnetic wave, the value of ω is**
 
-```markdown
+---
+
+
 The general equation of an electromagnetic wave is:
 E = E₀ sin(kx - ωt)
 
@@ -23,4 +25,3 @@ Speed of electromagnetic wave: c = ω/k = 3 × 10⁸ m/s
 Therefore, the value of ω is **3 × 10¹⁴ rad s⁻¹**.
 
 Correct answer: **3 × 10¹⁴ rad s⁻¹**
-```

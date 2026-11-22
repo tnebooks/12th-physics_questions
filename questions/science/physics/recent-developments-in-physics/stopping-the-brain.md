@@ -9,7 +9,9 @@ answers:
 
 **The technology used for stopping the brain from processing pain is**
 
-```markdown
+---
+
+
 The technology used for stopping the brain from processing pain (by distracting or reducing pain perception) is **"Virtual Reality" (VR)**.
 
 - VR technology immerses patients in a virtual environment, diverting their attention away from painful stimuli.
@@ -22,4 +24,3 @@ Other options:
 - **"Radiology"** → Uses imaging techniques like X-ray, MRI, CT scans for diagnosis; does not stop pain processing.
 
 Therefore, the correct answer is **"Virtual reality"**.
-```

@@ -9,7 +9,9 @@ answers:
 
 **The materials used in Robotics are**
 
-```markdown
+---
+
+
 The materials widely used in robotics are **"Steel and aluminium"**.
 
 - **Steel** — Used for structural frames, gears, and actuators due to its high strength, durability, and wear resistance.
@@ -23,4 +25,3 @@ Other options:
 Modern robotics also uses composites, plastics, and shape memory alloys, but the most common structural materials remain steel and aluminium.
 
 Therefore, the correct answer is **"Steel and aluminum"**.
-```

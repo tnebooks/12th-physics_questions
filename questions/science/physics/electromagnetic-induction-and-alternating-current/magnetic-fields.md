@@ -9,7 +9,9 @@ answers:
 
 **In an oscillating LC circuit, the maximum charge on the capacitor is Q. The charge on the capacitor when the energy is stored equally between the electric and magnetic fields is**
 
-```markdown
+---
+
+
 Total energy in LC circuit:
 E_total = Q²/(2C)
 
@@ -32,4 +34,3 @@ q = Q/√2
 Therefore, the charge on the capacitor is **Q/√2**.
 
 Correct answer: **Q/√2**
-```

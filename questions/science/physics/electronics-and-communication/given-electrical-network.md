@@ -12,7 +12,9 @@ answers:
 
 ![](Ch-12.png) 
 
-```markdown
+---
+
+
 To determine which logic gate the given electrical network represents, we analyze the circuit configuration:
 
 - **AND gate** — Output is HIGH (1) only when all inputs are HIGH (1).
@@ -23,4 +25,3 @@ To determine which logic gate the given electrical network represents, we analyz
 For a typical transistor-based or diode-based network, if two switches (or inputs) are connected in such a way that the output is LOW when either input is HIGH, and HIGH only when both are LOW, it behaves as a **NOR gate**.
 
 Since the given network matches the NOR gate configuration (often implemented using two transistors in parallel with a pull-up resistor), the correct answer is **"NOR gate"**.
-```

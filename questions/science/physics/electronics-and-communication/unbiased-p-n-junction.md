@@ -9,7 +9,9 @@ answers:
 
 **In an unbiased p-n junction, the majority charge carriers (that is, holes) in the p-region diffuse into n-region because of**
 
-```markdown
+---
+
+
 In an unbiased p-n junction, diffusion occurs due to the **concentration gradient** of charge carriers across the junction.
 
 - In the p-region, holes are the majority carriers and their concentration is very high.
@@ -22,4 +24,3 @@ Other options:
 - **"All of the above"** → Incorrect, since the first two are not the cause.
 
 Therefore, the correct answer is **"the higher hole concentration in p-region than that in n-region"**.
-```

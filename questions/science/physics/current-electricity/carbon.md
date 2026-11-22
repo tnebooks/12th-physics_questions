@@ -9,7 +9,9 @@ answers:
 
 **A carbon resistor of (47 ± 4.7) kΩ to be marked with rings of different colours for its identification. The colour code sequence will be**
 
-```markdown
+---
+
+
 Resistance value = 47 kΩ ± 4.7 kΩ
 
 Using the standard resistor color code:
@@ -22,4 +24,3 @@ Using the standard resistor color code:
 Therefore, the color code sequence is: **Yellow – Violet – Orange – Silver**
 
 Answer: Yellow – Violet – Orange – Silver
-```

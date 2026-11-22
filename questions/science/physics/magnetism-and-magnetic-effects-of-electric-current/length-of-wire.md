@@ -9,7 +9,9 @@ answers:
 
 **A wire of length l carrying a current I along the Y direction is kept in a magnetic field given by $\vec{B}=\frac{\beta}{\sqrt{3}}(\hat{i}+\hat{j}+\hat{k}) \,\text{T} $. The magnitude of Lorentz force acting on the wire is**
 
-```markdown
+---
+
+
 The magnetic force on a current-carrying wire is given by:
 
 F = I (L × B)
@@ -40,4 +42,3 @@ Magnitude of force:
 |F| = √2/3 β I l
 
 Therefore, the magnitude of the Lorentz force acting on the wire is **√2/3 βIl**.
-```

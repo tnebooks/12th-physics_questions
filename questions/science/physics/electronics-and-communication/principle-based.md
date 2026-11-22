@@ -9,7 +9,9 @@ answers:
 
 **The principle based on which a solar cell operates is**
 
-```markdown
+---
+
+
 A solar cell operates on the principle of the **Photovoltaic effect**.
 
 In the photovoltaic effect:
@@ -23,4 +25,3 @@ Other options:
 - **"Carrier flow"** → General term for current flow, not the specific principle of a solar cell.
 
 Therefore, the correct answer is **"Photovoltaic action"**.
-```

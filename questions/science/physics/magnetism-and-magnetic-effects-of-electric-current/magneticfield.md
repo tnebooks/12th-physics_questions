@@ -11,7 +11,9 @@ answers:
 
 ![](qns-1.png)
 
-```markdown
+---
+
+
 To find the magnetic field at the centre O of the current loop, we need to consider the geometry of the loop. Based on the answer choices and the given symbols:
 
 - ⊙ indicates magnetic field coming **out of the plane** (towards the observer)
@@ -34,4 +36,3 @@ Given the answer is **μ₀I/4r⊗**, this means:
 Therefore, the magnetic field at the centre O of the current loop is **μ₀I/4r⊗** (into the plane).
 
 Note: The straight radial segments do not contribute to the field at the centre because the angle between the current element and the position vector is 0° or 180°, making the cross product zero.
-```

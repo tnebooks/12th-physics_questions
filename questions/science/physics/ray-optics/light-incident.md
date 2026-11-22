@@ -9,7 +9,9 @@ answers:
 
 **For light incident from air on a slab of refractive index 2, the maximum possible angle of refraction is,**
 
-```markdown
+---
+
+
 The angle of refraction ($r$) reaches its maximum value when the angle of incidence ($i$) is at its maximum possible value. 
 
 * The maximum possible angle of incidence for light hitting a surface is $i_{\text{max}} = 90^\circ$ (this is known as grazing incidence).
@@ -31,5 +33,3 @@ We know that $\sin 30^\circ = \frac{1}{2}$, therefore:
 $$r_{\text{max}} = 30^\circ$$
 
 The maximum possible angle of refraction is **30°**.
-
-```

@@ -11,7 +11,9 @@ answers:
 
 **Two identical conducting balls having positive charges $q_1$ and $q_2$ are separated by a centre to centre distance r. If they are made to touch each other and then separated to the same distance, the force between them will be**
 
-```markdown
+---
+
+
 Initial force: F₁ = k (q₁ q₂) / r²
 
 When the two identical conducting balls touch each other, charge redistributes equally because they are identical conductors.
@@ -32,4 +34,3 @@ Thus, F₂ / F₁ ≥ 1
 Therefore, the force after touching is **more than before** (except when q₁ = q₂, in which case it remains the same; but since the options don't include "same or more", and the question implies q₁ ≠ q₂, the correct choice is "more than before").
 
 Correct answer: **more than before**
-```

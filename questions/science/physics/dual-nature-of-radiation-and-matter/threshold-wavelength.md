@@ -9,7 +9,9 @@ answers:
 
 **The threshold wavelength for a metal surface whose photoelectric work function is 3.313 eV is**
 
-```markdown
+---
+
+
 Given:
 - Work function, φ = 3.313 eV
 - h = 6.6 × 10⁻³⁴ Js
@@ -29,4 +31,3 @@ Given:
 Therefore, the threshold wavelength is **3750 Å**.
 
 Correct answer: **3750Å**
-```

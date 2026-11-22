@@ -11,6 +11,7 @@ tags:
 
 Which of the following statement is/are true for equipotential surface?
 
-```markdown
+---
+
+
 The electric field is perpendicular to an equipotential surface. Work done is zero only when moving between two points on the same equipotential surface, so option C as broadly stated is not generally true.
-```

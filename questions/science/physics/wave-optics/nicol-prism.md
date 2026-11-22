@@ -10,7 +10,9 @@ answers:
 **Light transmitted by Nicol prism is,**
 
 
-```markdown
+---
+
+
 A **Nicol prism** is an optical device made from calcite crystals that produces **plane polarised light** (or linearly polarised light).
 
 - It works on the principle of double refraction (birefringence).
@@ -23,4 +25,3 @@ Other options:
 - **Elliptically polarised** → Light in which the tip of the electric field vector traces an ellipse.
 
 Therefore, the correct answer is **"plane polarised"**.
-```

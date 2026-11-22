@@ -9,7 +9,9 @@ answers:
 
 **In a series resonant RLC circuit, the voltage across 100 Ω resistor is 40 V. The resonant frequency ω is 250 rad/s. If the value of C is 4 μF, then the voltage across L is**
 
-```markdown
+---
+
+
 Given:
 - R = 100 Ω
 - V_R = 40 V (voltage across resistor)
@@ -33,4 +35,3 @@ At resonance, V_L = V_C = 400 V
 Therefore, the voltage across L is **400 V**.
 
 Correct answer: **400 V**
-```

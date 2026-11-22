@@ -12,7 +12,9 @@ answers:
 
 ![](ch-13.png) 
 
-```markdown
+---
+
+
 To determine when the output is 1, we need to analyze the given logic circuit (circuit diagram required for exact verification).
 
 Based on the correct answer being **101** (A=1, B=0, C=1), the circuit is likely configured such that:
@@ -27,4 +29,3 @@ Let's verify the given options:
 
 Therefore, the circuit produces output 1 only when A=1, B=0, and C=1.  
 Hence, the correct answer is **101**.
-```

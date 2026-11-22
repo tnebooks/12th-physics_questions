@@ -9,7 +9,9 @@ answers:
 
 **In J.J. Thomson e/m experiment, electrons are accelerated through $2.6 \text{ kV}$ enter the region of crossed electric field and magnetic field of strength $3.0 \times 10^4 \text{ V m}^{-1}$ and $1.0 \times 10^{-3} \text{ T}$ respectively, and pass through it undeflected, then the specific charge is**
 
-```markdown
+---
+
+
 Given:
 * Accelerating voltage, $V = 2.6 \text{ kV} = 2600 \text{ V}$
 * Electric field, $E = 3.0 \times 10^4 \text{ V m}^{-1}$
@@ -38,4 +40,3 @@ $$\frac{e}{m} \approx 1.7 \times 10^{11} \text{ C kg}^{-1}$$
 
 Therefore, the specific charge is **$1.7 \times 10^{11} \text{ C kg}^{-1}$**.
 
-```

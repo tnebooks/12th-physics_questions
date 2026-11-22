@@ -11,7 +11,9 @@ answers:
 
 ![](qns-7.png)
 
-```markdown
+---
+
+
 **Step 1: Magnetic field on the axis of a single coil**
 
 For a coil of radius R with N turns carrying current I, the magnetic field at a distance x from its centre along the axis is:
@@ -53,4 +55,3 @@ B_net = 8 μ₀ N I / (5√5 R)
 B_net = 8 N μ₀ I / (5^(3/2) R)   [since √5 = 5^(1/2), so 5√5 = 5^(3/2)]
 
 Therefore, the magnetic field at point P is **8Nμ₀I/5^(3/2)R**.
-```

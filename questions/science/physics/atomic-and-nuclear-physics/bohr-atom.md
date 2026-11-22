@@ -9,7 +9,9 @@ answers:
 
 **The electric potential of an electron is given by V = V₀ ln(r/r₀) where r₀ is a constant. If Bohr atom model is valid, then variation of radius of $n^{\text{th}}$ orbit rₙ with the principal quantum number n is**
 
-```markdown
+---
+
+
 Given: Potential energy of electron, V(r) = V₀ ln(r/r₀)
 
 Force on the electron:  
@@ -31,4 +33,3 @@ Therefore, the radius of the nth orbit varies as:
 **rₙ ∝ n**
 
 Correct answer: **rₙ ∝ n**
-```

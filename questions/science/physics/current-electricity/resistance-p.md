@@ -11,7 +11,9 @@ answers:
 
 ![](qns-10.png)
 
-```markdown
+---
+
+
 Since the circuit diagram is not provided in the query, I'll explain the general method to find the unknown resistance P.
 
 Given:
@@ -29,4 +31,3 @@ R_total = 10 / 1 = 10 Ω
 P = R_total - 6.5 = 3.5 Ω
 
 Therefore, the resistance of P is **3.5 Ω**.
-```

@@ -9,7 +9,9 @@ answers:
 
 **If a light of wavelength $330 \text{ nm}$ is incident on a metal with work function $3.55 \text{ eV}$, the electrons are emitted. Then the wavelength of the wave associated with the emitted electron is (Take $h = 6.6 \times 10^{-34} \text{ Js}$)**
 
-```markdown
+---
+
+
 **Given values:**
 * Wavelength of incident light, $\lambda = 330 \text{ nm} = 330 \times 10^{-9} \text{ m}$
 * Work function, $\phi_0 = 3.55 \text{ eV}$
@@ -64,4 +66,3 @@ Convert the kinetic energy back to Joules:
 Since the emitted electrons can have kinetic energies ranging from $0$ up to $K_{\text{max}}$ (i.e., $K \le K_{\text{max}}$), their corresponding de Broglie wavelengths will be greater than or equal to this minimum calculated wavelength ($\lambda_e \ge \lambda_{\text{min}}$).
 
 Therefore, the wavelength is **$\ge 2.75 \times 10^{-9} \text{ m}$**.
-```

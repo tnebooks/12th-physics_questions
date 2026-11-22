@@ -9,7 +9,9 @@ answers:
 
 **The wave associated with a moving particle of mass 3 × 10⁻⁶ g has the same wavelength as an electron moving with a velocity 6×10⁶ ms⁻¹. The velocity of the particle is**
 
-```markdown
+---
+
+
 de Broglie wavelength: λ = h/mv
 
 If the wavelengths are equal for both particles:
@@ -30,4 +32,3 @@ v₁ = 1.82 × 10⁻¹⁵ m/s
 Therefore, the velocity of the particle is **1.82 × 10⁻¹⁵ m s⁻¹**.
 
 Correct answer: **1.82×10⁻¹⁵ m s⁻¹**
-```

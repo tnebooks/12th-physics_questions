@@ -9,7 +9,9 @@ answers:
 
 **A particle having mass m and charge q accelerated through a potential difference V. Find the force experienced when it is kept under perpendicular magnetic field B.**
 
-```markdown
+---
+
+
 When a particle of charge q is accelerated through a potential difference V, it gains kinetic energy:
 
 qV = ½ mv²
@@ -33,4 +35,3 @@ Therefore, F = √(2q³B²V/m)
 So, the force experienced by the particle is **√(2q³B²V/m)**.
 
 Note: The mass m appears in the denominator under the square root, which matches the given answer option.
-```

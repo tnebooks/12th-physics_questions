@@ -10,7 +10,9 @@ answers:
 
 An electric field E =10xî exists in a certain region of space. Then the potential difference V = Vo – VA, where Vo is the potential at the origin and VA is the potential at x = 2 m is:
 
-```markdown
+---
+
+
 
 
 ### Explanation:
@@ -62,5 +64,3 @@ $$
 \boxed{+20 \, \text{V}}
 $$
 
-
-```

@@ -9,7 +9,9 @@ answers:
 
 **Three wires of equal lengths are bent in the form of loops. One of the loops is circle, another is a semi-circle and the third one is a square. They are placed in a uniform magnetic field and same electric current is passed through them. Which of the following loop configuration will experience greater torque?**
 
-```markdown
+---
+
+
 The torque (τ) experienced by a current loop in a uniform magnetic field is given by:
 
 τ = N I A B sinθ
@@ -55,4 +57,3 @@ Approximate values (L = 1):
 Therefore, the **circular loop** will experience the greatest torque.
 
 So, the correct answer is **Circle**.
-```

@@ -9,7 +9,9 @@ answers:
 
 **The internal resistance of a 2.1 V cell which gives a current of 0.2 A through a resistance of 10 Ω is**
 
-```markdown
+---
+
+
 Given:
 - EMF of the cell, E = 2.1 V
 - External resistance, R = 10 Ω
@@ -25,4 +27,3 @@ Using the formula: E = I (R + r)
 r = 0.1 / 0.2 = 0.5 Ω
 
 Therefore, the internal resistance of the cell is **0.5 Ω**.
-```

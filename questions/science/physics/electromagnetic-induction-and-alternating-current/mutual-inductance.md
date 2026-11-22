@@ -9,7 +9,9 @@ answers:
 
 **A circular coil with a cross-sectional area of 4 cm² has 10 turns. It is placed at the centre of a long solenoid that has 15 turns/cm and a cross-sectional area of 10 cm². The axis of the coil coincides with the axis of the solenoid. What is their mutual inductance?**
 
-```markdown
+---
+
+
 Given:
 - Area of small coil, A₁ = 4 cm² = 4 × 10⁻⁴ m²
 - Number of turns of small coil, N₁ = 10
@@ -31,4 +33,3 @@ M = 7.54 × 10⁻⁶ H = 7.54 μH
 Therefore, the mutual inductance is **7.54 μH**.
 
 Correct answer: **7.54 μH**
-```

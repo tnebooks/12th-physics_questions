@@ -9,7 +9,9 @@ answers:
 
 **The light emitted in an LED is due to**
 
-```markdown
+---
+
+
 The light emitted in an LED (Light Emitting Diode) is due to the **recombination of charge carriers** (electrons and holes) at the p-n junction.
 
 When an LED is forward biased:
@@ -23,4 +25,3 @@ Other options:
 - **"Reflection of light due to lens action"** → LEDs may have lenses to focus light, but this is not the cause of light emission.
 
 Therefore, the correct answer is **"Recombination of charge carriers"**.
-```

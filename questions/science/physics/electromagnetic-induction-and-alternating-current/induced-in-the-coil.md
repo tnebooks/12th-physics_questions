@@ -11,7 +11,9 @@ answers:
 
 ![](qns-1.png)
 
-```markdown
+---
+
+
 An electron carries a negative charge. As it moves, it can be considered as a current in the opposite direction to its motion.
 
 As the electron approaches the coil, the magnetic flux through the coil increases.  
@@ -25,4 +27,3 @@ Due to Lenz's law, the induced current will oppose the change in flux.
 Therefore, **the current will reverse its direction as the electron goes past the coil**.
 
 Correct answer: **The current will reverse its direction as the electron goes past the coil**
-```

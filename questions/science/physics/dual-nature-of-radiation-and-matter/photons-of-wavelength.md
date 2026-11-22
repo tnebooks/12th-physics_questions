@@ -9,7 +9,9 @@ answers:
 
 **Photons of wavelength λ are incident on a metal. The most energetic electrons ejected from the metal are bent into a circular arc of radius R by a perpendicular magnetic field having magnitude B. The work function of the metal is**
 
-```markdown
+---
+
+
 Photoelectric equation:
 hν = φ + K_max
 hc/λ = φ + K_max  ... (1)
@@ -30,4 +32,3 @@ Matching with given options:
 This gives: hc/λ - 2mₑ × (e²B²R² / 4mₑ²) = hc/λ - e²B²R²/(2mₑ)
 
 Therefore, the correct answer is: **hc/λ - 2mₑ[eBR/2mₑ]²**
-```

@@ -9,7 +9,9 @@ answers:
 
 A parallel plate capacitor stores a charge Q at a voltage V. Suppose the area of the parallel plate capacitor and the distance between the plates are each doubled then which is the quantity that will change?
 
-```markdown
+---
+
+
 For a parallel plate capacitor,
 
 $$
@@ -31,4 +33,3 @@ also remains unchanged.
 The energy density of the electric field depends on the electric field between the plates, which changes when the plate separation is doubled.
 
 Hence, the quantity that changes is **Energy density**.
-```

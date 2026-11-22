@@ -9,7 +9,9 @@ answers:
 
 **If the mean wavelength of light from sun is taken as $550 \text{ nm}$ and its mean power as $3.8 \times 10^{26} \text{ W}$, then the number of photons emitted per second from the sun is of the order**
 
-```markdown
+---
+
+
 **Given values:**
 * Mean wavelength, $\lambda = 550 \text{ nm} = 550 \times 10^{-9} \text{ m}$
 * Power of the sun, $P = 3.8 \times 10^{26} \text{ W}$
@@ -28,5 +30,3 @@ $$n = \frac{3.8 \times 10^{26}}{3.6 \times 10^{-19}}$$
 $$n \approx 1.055 \times 10^{45}$$
 
 Therefore, the number of photons emitted per second is of the order **$10^{45}$**.
-
-```

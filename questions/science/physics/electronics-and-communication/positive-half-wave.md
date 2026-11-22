@@ -9,7 +9,9 @@ answers:
 
 **If a positive half –wave rectified voltage is fed to a load resistor, for which part of a cycle there will be current flow through the load?**
 
-```markdown
+---
+
+
 In a **positive half-wave rectifier**, the diode conducts only during the positive half-cycle of the input AC signal. The negative half-cycle is blocked.
 
 - The positive half-cycle corresponds to **0° to 180°** of the input sinusoidal cycle.
@@ -23,4 +25,3 @@ Let's verify the options:
 - **0°–180°** → Complete positive half-cycle (correct)
 
 Therefore, the correct answer is **0°–180°**.
-```

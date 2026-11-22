@@ -9,7 +9,9 @@ answers:
 
 **The method of making nanomaterial by assembling the atoms is called**
 
-```markdown
+---
+
+
 The method of making nanomaterials by **assembling atoms or molecules** to build larger structures is called the **"Bottom up approach"**.
 
 In this approach, nanomaterials are constructed from smaller building blocks (atoms, molecules, or clusters) through chemical or physical processes, allowing precise control over the final structure.
@@ -20,4 +22,3 @@ Other options:
 - **"Diagonal approach"** → Not a standard term in nanotechnology.
 
 Therefore, the correct answer is **"Bottom up approach"**.
-```

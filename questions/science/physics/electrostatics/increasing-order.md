@@ -12,7 +12,9 @@ Rank the electrostatic potential energies for the given system of charges in inc
 
 ![](electro.png)
 
-```markdown
+---
+
+
 Electrostatic potential energy depends on the type of charges and the distance between them.
 
 Unlike charges have lower (negative) potential energy, while like charges have higher (positive) potential energy.
@@ -24,4 +26,3 @@ $$
 $$
 
 Hence, the correct answer is **1 = 4 < 2 < 3**.
-```

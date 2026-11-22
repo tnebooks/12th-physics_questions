@@ -9,7 +9,9 @@ answers:
 
 **The work functions for metals A, B and C are 1.92 eV, 2.0 eV and 5.0 eV respectively. The metal/metals which will emit photoelectrons for a radiation of wavelength 4100 Å is/are**
 
-```markdown
+---
+
+
 Energy of incident radiation: E = hc/λ
 
 λ = 4100 Å = 4100 × 10⁻¹⁰ m = 4.1 × 10⁻⁷ m
@@ -30,4 +32,3 @@ Given work functions:
 Therefore, metals A and B will emit photoelectrons.
 
 Correct answer: **both A and B**
-```

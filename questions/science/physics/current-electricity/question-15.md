@@ -11,6 +11,7 @@ tags:
 
 The range of the antenna is 64 km, then its height is (Radius of the earth is 6400 km):
 
-```markdown
+---
+
+
 For antenna range d ≈ √(2Rh). Thus h = d²/(2R) = 64²/(2×6400) km = 0.32 km.
-```

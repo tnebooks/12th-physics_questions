@@ -9,7 +9,9 @@ answers:
 
 **The particle which gives mass to protons and neutrons are**
 
-```markdown
+---
+
+
 The particle which gives mass to protons and neutrons is the **Higgs particle** (Higgs boson). According to the Standard Model of particle physics, the Higgs boson is associated with the Higgs field, which permeates the universe. Particles interact with this field and acquire mass through the Higgs mechanism.
 
 - Protons and neutrons are composite particles made of quarks. Quarks gain mass through their interaction with the Higgs field.
@@ -21,4 +23,3 @@ Other options:
 - **"Bulk particle"** → Refers to particles in macroscopic quantities; not a specific fundamental particle.
 
 Therefore, the correct answer is **"Higgs particle"**.
-```

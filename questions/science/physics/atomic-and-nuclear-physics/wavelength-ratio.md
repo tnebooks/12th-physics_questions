@@ -9,7 +9,9 @@ answers:
 
 **The ratio of the wavelengths of radiation emitted for the transition from n = 2 to n = 1 in Li⁺⁺, He⁺ and H is**
 
-```markdown
+---
+
+
 For a hydrogen-like atom, the wavelength (λ) of emitted radiation for transition from n₂ to n₁ is given by:
 
 1/λ = R Z² (1/n₁² - 1/n₂²)
@@ -37,4 +39,3 @@ But the question asks for Li⁺⁺ : He⁺ : H (reverse order):
 Therefore, the correct ratio is **4 : 9 : 36**.
 
 Correct answer: **4:9:36**
-```

@@ -9,7 +9,9 @@ answers:
 
 **If the velocity and wavelength of light in air is $V_a$ and $\lambda_a$ and that in water is $V_w$ and $\lambda_w$, then the refractive index of water is,**
 
-```markdown
+---
+
+
 The absolute refractive index ($\mu$) of a medium is defined as the ratio of the speed of light in a vacuum (or air) to the speed of light in that medium.
 
 Therefore, the refractive index of water ($\mu_w$) is given by:
@@ -23,5 +25,3 @@ $$\mu_w = \frac{\nu \lambda_a}{\nu \lambda_w} = \frac{\lambda_a}{\lambda_w}$$
 Both $\frac{V_a}{V_w}$ and $\frac{\lambda_a}{\lambda_w}$ are technically correct representations, but since "Va/Vw" is the fundamental definition and listed as the specific answer, we choose it.
 
 Correct answer is **Va/Vw**.
-
-```

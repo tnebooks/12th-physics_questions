@@ -11,6 +11,7 @@ tags:
 
 Which one of them is used to produce a propagating electromagnetic wave?
 
-```markdown
+---
+
+
 An accelerating charge produces changing electric and magnetic fields that propagate through space as electromagnetic radiation.
-```

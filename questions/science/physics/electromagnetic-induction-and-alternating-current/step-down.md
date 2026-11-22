@@ -9,7 +9,9 @@ answers:
 
 **A step-down transformer reduces the supply voltage from 220 V to 11 V and increases the current from 6 A to 100 A. Then its efficiency is**
 
-```markdown
+---
+
+
 Efficiency of a transformer:
 η = (Output power) / (Input power)
 
@@ -22,4 +24,3 @@ Output power: P_out = V_s × I_s = 11 × 100 = 1100 W
 Therefore, the efficiency of the transformer is **0.83**.
 
 Correct answer: **0.83**
-```

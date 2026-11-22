@@ -9,7 +9,9 @@ answers:
 
 **A radioactive element has N₀ number of nuclei at t = 0. The number of nuclei remaining after half of a half-life (that is, at time t = ½ T₁/₂)**
 
-```markdown
+---
+
+
 Radioactive decay law:  
 N(t) = N₀ e^(-λt)
 
@@ -27,4 +29,3 @@ N = N₀ / √2
 Therefore, the number of nuclei remaining after half of a half-life is **N₀/√2**.
 
 Correct answer: **N₀/√2**
-```

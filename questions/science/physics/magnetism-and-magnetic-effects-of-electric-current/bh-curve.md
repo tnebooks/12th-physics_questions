@@ -11,7 +11,9 @@ answers:
 
 ![](qns-11.png)
 
-```markdown
+---
+
+
 To completely demagnetize a ferromagnetic material, we need to apply a magnetic field in the reverse direction equal to the **coercivity** (Hc) of the material. This is the point where the BH curve crosses the H-axis (B = 0).
 
 From the BH curve shown in the figure (though not visible here), the coercivity value is read from the graph where the hysteresis loop intersects the negative H-axis.
@@ -27,4 +29,3 @@ Hc = 150 A/m (based on the standard figure associated with this question)
 So, I = 150 / 10⁵ = 1.5 × 10⁻³ A = 1.50 mA
 
 Therefore, the current required to completely demagnetize the ferromagnet is **1.50 mA**.
-```

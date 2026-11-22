@@ -9,7 +9,9 @@ answers:
 
 **Two point white dots are 1 mm apart on a black paper. They are viewed by eye of pupil diameter 3 mm approximately.The maximum distance at which these dots can be resolved by the eye is, [take wavelength of light, λ = 500 nm]**
 
-```markdown
+---
+
+
 
 The maximum distance at which two point objects can be resolved by the eye is determined by the **Rayleigh criterion** for resolution:
 
@@ -32,4 +34,3 @@ $$L = \frac{10^{-3}}{2.033 \times 10^{-4}} \approx 4.92 \text{ m} \approx 5 \tex
 Therefore, the maximum distance is approximately **$5 \text{ m}$**.
 
 Correct answer: **$5 \text{ m}$**.
-```

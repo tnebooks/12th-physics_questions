@@ -10,7 +10,9 @@ answers:
 
 **An electric dipole is placed at an alignment angle of 30° with an electric field of $2 × 10^5 NC^–1$. It experiences a torque equal to 8 Nm. The charge on the dipole if the dipole length is 1 cm is**
 
-```markdown
+---
+
+
 Torque (τ) = pE sinθ, where p = dipole moment = q × (2l), and 2l = dipole length.
 
 Given:  
@@ -26,4 +28,3 @@ So, τ = q × (2l) × E × sinθ
 → q = 8 × 10^(-3) C = 8 mC.
 
 Therefore, the correct answer is **8 mC**.
-```

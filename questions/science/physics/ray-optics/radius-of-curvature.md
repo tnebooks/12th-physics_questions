@@ -9,7 +9,9 @@ answers:
 
 **The radius of curvature of curved surface at a thin planoconvex lens is 10 cm and the refractive index is 1.5. If the plane surface is silvered, then the focal length will be,**
 
-```markdown
+---
+
+
 When the plane surface of a plano-convex lens is silvered, the system acts as a mirror. The light travels through the lens, reflects off the silvered back surface, and travels back through the lens. The effective power ($P$) of this combination is:
 $$P = 2P_L + P_M$$
 
@@ -40,5 +42,3 @@ $$F = -10\text{ cm}$$
 *(The negative sign indicates that the system behaves as a converging / concave mirror).*
 
 Therefore, the focal length of the system is **10 cm**.
-
-```

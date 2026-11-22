@@ -9,7 +9,9 @@ answers:
 
 Two metallic spheres of radii 1 cm and 3 cm are given charges of $–1 × 10^–2 C and 5 × 10^–2 C$ respectively. If these are connected by a conducting wire, the final charge on the bigger sphere is
 
-```markdown
+---
+
+
 When two conducting spheres are connected, their potentials become equal.
 
 $$
@@ -41,5 +43,4 @@ $$
 q_2=3\times10^{-2}\ \text{C}
 $$
 
-Hence, the final charge on the bigger sphere is **$3 \times 10^{-2}\ \text{C}$**.
-```s
+Hence, the final charge on the bigger sphere is **$3 \times 10^{-2}\ \text{C}$**.s

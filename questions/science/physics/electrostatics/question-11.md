@@ -11,6 +11,7 @@ tags:
 
 If a current of 7.5 A is maintained in a wire for 45 seconds then the charge flowing through the wire is:
 
-```markdown
+---
+
+
 Using Q = It: Q = 7.5 × 45 = 337.5 C.
-```

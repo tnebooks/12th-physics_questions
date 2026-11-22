@@ -12,7 +12,9 @@ The total electric flux for the following closed surface which is kept inside wa
 
 ![](total-flux.png)
 
-```markdown
+---
+
+
 According to Gauss's law, the total electric flux through a closed surface is
 
 $$
@@ -34,4 +36,3 @@ $$
 $$
 
 Hence, the total electric flux through the closed surface is **$\dfrac{q}{40\varepsilon_0}$**.
-```

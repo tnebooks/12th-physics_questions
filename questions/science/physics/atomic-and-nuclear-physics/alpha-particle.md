@@ -9,7 +9,9 @@ answers:
 
 **Suppose an alpha particle accelerated by a potential of V volt is allowed to collide with a nucleus of atomic number Z, then the distance of closest approach of alpha particle to the nucleus is**
 
-```markdown
+---
+
+
 For an alpha particle (charge +2e) accelerated through a potential V, its kinetic energy is:  
 **K.E. = 2eV**
 
@@ -36,4 +38,3 @@ But if V is in volts and we rearrange for V, it matches the option **14.4 V/Z Å
 Given the answer option provided as **14.4 V/Z Å**, the correct choice is:
 
 **14.4 V/Z Å**
-```

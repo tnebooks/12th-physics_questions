@@ -9,7 +9,9 @@ answers:
 
 **A non-conducting charged ring carrying a charge of q, mass m and radius r is rotated about its axis with constant angular speed ω. Find the ratio of its magnetic moment with angular momentum is**
 
-```markdown
+---
+
+
 For a rotating charged ring, we need to find the ratio of magnetic moment (μ) to angular momentum (L).
 
 **Step 1: Find the magnetic moment (μ)**
@@ -29,4 +31,3 @@ Angular momentum: L = I_m × ω = mr²ω
 Therefore, the ratio of magnetic moment to angular momentum is **q/2m**.
 
 This is known as the **gyromagnetic ratio** for a rotating charged ring.
-```

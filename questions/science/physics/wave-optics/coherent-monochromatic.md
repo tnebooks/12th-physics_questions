@@ -10,7 +10,9 @@ answers:
 **Two coherent monochromatic light beams of intensities I and 4I are superposed. The maximum and minimum possible intensities in the resulting beam are**
 
 
-```markdown
+---
+
+
 
 When two coherent light beams interfere, the maximum and minimum intensities are given by:
 
@@ -30,4 +32,3 @@ $$I_{\text{min}} = (\sqrt{I} - \sqrt{4I})^2 = (\sqrt{I} - 2\sqrt{I})^2 = (-\sqrt
 Therefore, the maximum intensity is $9I$ and the minimum intensity is $I$.
 
 Correct answer: **$9I$ and $I$**.
-```

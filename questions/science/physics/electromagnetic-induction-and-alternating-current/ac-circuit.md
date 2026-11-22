@@ -9,7 +9,9 @@ answers:
 
 **An inductor 20 mH, a capacitor 50 μF and a resistor 40Ω are connected in series across a source of emf V = 10 sin 340 t. The power loss in AC circuit is**
 
-```markdown
+---
+
+
 Given:
 - L = 20 mH = 20 × 10⁻³ H
 - C = 50 μF = 50 × 10⁻⁶ F
@@ -37,4 +39,3 @@ P = (0.1077)² × 40 = 0.0116 × 40 = 0.464 W ≈ 0.46 W
 Therefore, the power loss in AC circuit is **0.46 W**.
 
 Correct answer: **0.46 W**
-```

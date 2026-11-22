@@ -9,7 +9,9 @@ answers:
 
 Two points A and B are maintained at a potential of 7 V and -4 V respectively. The work done in moving 50 electrons from A to B is
 
-```markdown
+---
+
+
 The work done in moving a charge between two points is
 
 $$
@@ -43,4 +45,3 @@ $$
 $$
 
 Hence, the correct answer is **$8.80 \times 10^{-17}\ \text{J}$**.
-```

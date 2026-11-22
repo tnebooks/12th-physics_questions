@@ -9,7 +9,9 @@ answers:
 
 **When a biconvex lens of glass having refractive index 1.47 is dipped in a liquid, it acts as a plane sheet of glass. This implies that the liquid must have refractive index,**
 
-```markdown
+---
+
+
 According to the **Lens Maker's Formula**, the focal length ($f$) of a lens immersed in a surrounding medium is given by:
 
 $$\frac{1}{f} = \left(\frac{\mu_{\text{lens}}}{\mu_{\text{medium}}} - 1\right) \left(\frac{1}{R_1} - \frac{1}{R_2}\right)$$
@@ -32,4 +34,3 @@ $$\mu_{\text{lens}} = \mu_{\text{medium}}$$
 
 Since the light does not experience any change in optical density at the boundary, no refraction occurs, making the lens virtually invisible in the liquid. Thus, the refractive index of the liquid must be **equal to that of glass** ($1.47$).
 
-```

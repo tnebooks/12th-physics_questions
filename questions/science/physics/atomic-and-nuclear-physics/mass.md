@@ -9,7 +9,9 @@ answers:
 
 **A radioactive nucleus (initial mass number A and atomic number Z) emits two α-particles and 2 positrons. The ratio of number of neutrons to that of proton in the final nucleus will be**
 
-```markdown
+---
+
+
 Initial nucleus:
 - Mass number = A
 - Atomic number = Z
@@ -39,4 +41,3 @@ Final nucleus:
 Ratio = **(A - Z - 2) / (Z - 6)**
 
 Therefore, the correct answer is: **A-Z-2/Z-6**
-```

@@ -9,7 +9,9 @@ answers:
 
 **One of the of Young’s double slits is covered with a glass plate as shown in figure. The position of central maximum will,**
 
-```markdown
+---
+
+
 When one of the slits in Young's double-slit experiment is covered with a glass plate, the central maximum shifts **upwards** (or towards the slit covered with the glass plate).
 
 **Reason:**
@@ -22,4 +24,3 @@ If the upper slit is covered with the glass plate:
 - If the lower slit is covered, it shifts **downwards**.
 
 Since the figure (not shown here) presumably has the upper slit covered, the correct answer is **"get shifted upwards"**.
-```

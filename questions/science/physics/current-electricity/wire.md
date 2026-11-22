@@ -11,7 +11,9 @@ answers:
 
 ![](qns-1.png)
 
-```markdown
+---
+
+
 Given:
 - Resistance per meter = 2 Ω/m
 - Radius of the circle, r = 1 m
@@ -30,4 +32,3 @@ Equivalent resistance:
 R_eq = π Ω
 
 Therefore, the equivalent resistance between A and B is **π Ω**.
-```

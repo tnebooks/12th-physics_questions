@@ -11,7 +11,9 @@ answers:
 
 ![](qns-2.png)
 
-```markdown
+---
+
+
 For the electron to move undeflected in crossed electric and magnetic fields, the electric force and magnetic force must balance each other:
 
 qE = qvB  →  v = E/B
@@ -27,4 +29,3 @@ Time taken t = distance/velocity = l / v = l / (σ/(ε₀B)) = ε₀ l B / σ
 Therefore, the time taken by the electron to cross the capacitor undeflected is **ɛ₀ lB/σ**.
 
 Note: The mass and charge of the electron do not appear in the final expression because they cancel out when equating electric and magnetic forces (qE = qvB).
-```

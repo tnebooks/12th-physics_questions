@@ -9,7 +9,9 @@ answers:
 
 **The vertical component of Earth’s magnetic field at a place is equal to the horizontal component. What is the value of angle of dip at this place?**
 
-```markdown
+---
+
+
 The angle of dip (δ) is the angle made by the Earth's total magnetic field with the horizontal direction.
 
 The horizontal component: B_H = B cos δ  
@@ -24,4 +26,3 @@ B_V = B_H
 ⇒ δ = 45°
 
 Therefore, the angle of dip at this place is **45°**.
-```

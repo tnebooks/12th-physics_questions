@@ -9,7 +9,9 @@ answers:
 
 **The alloys used for muscle wires in Robots are**
 
-```markdown
+---
+
+
 The alloys used for **muscle wires** (actuators) in robots are **Shape Memory Alloys (SMAs)** such as **Nitinol** (Nickel-Titanium alloy). These alloys can return to their original shape when heated, making them ideal for artificial muscles and robotic actuators.
 
 Other options:
@@ -20,4 +22,3 @@ Other options:
 Shape memory alloys exhibit the **shape memory effect** and **superelasticity**, which allow them to contract and expand like biological muscles when subjected to temperature changes or electrical stimulation.
 
 Therefore, the correct answer is **"Shape memory alloys"**.
-```

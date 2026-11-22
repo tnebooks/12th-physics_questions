@@ -9,7 +9,9 @@ answers:
 
 **Which of the following is false for electromagnetic waves**
 
-```markdown
+---
+
+
 Properties of electromagnetic waves:
 - They are **transverse waves**.
 - They are **non-mechanical waves** (do not require a medium).
@@ -20,4 +22,3 @@ Among the options, **longitudinal** is false because electromagnetic waves are t
 Therefore, the false statement is: **longitudinal**.
 
 Correct answer: **longitudinal**
-```

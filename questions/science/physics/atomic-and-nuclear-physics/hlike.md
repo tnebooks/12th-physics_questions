@@ -9,7 +9,9 @@ answers:
 
 **Atomic number of H-like atom with ionization potential 122.4 V for n = 1 is**
 
-```markdown
+---
+
+
 For a hydrogen-like atom, the energy of the electron in the ground state (n = 1) is given by:
 
 E₁ = -13.6 × Z² eV
@@ -25,4 +27,3 @@ Z = √9 = 3
 Therefore, the atomic number Z = **3**.
 
 Correct answer: **3**
-```

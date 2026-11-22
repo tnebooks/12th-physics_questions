@@ -9,7 +9,9 @@ answers:
 
 **A plane glass is placed over a various coloured letters (violet, green, yellow, red) The letter which appears to be raised more is,**
 
-```markdown
+---
+
+
 
 When a plane glass plate is placed over coloured letters, the letters appear to be raised due to refraction. The apparent shift (apparent depth) depends on the refractive index of the glass for different colours.
 
@@ -32,5 +34,4 @@ $$\text{Violet} > \text{Green} > \text{Yellow} > \text{Red}$$
 Therefore, the letter that appears to be raised more is **violet**.
 
 Correct answer: **violet**.
-```
 

@@ -9,7 +9,9 @@ answers:
 
 **A ray of light travelling in a transparent medium of refractive index n falls, on a surface separating the medium from air at an angle of incidents of 45°. The ray can undergo total internal reflection for the following n,**
 
-```markdown
+---
+
+
 For **Total Internal Reflection (TIR)** to occur, the angle of incidence ($i$) must be greater than or equal to the critical angle ($i_c$).
 $$i \ge i_c$$
 
@@ -29,5 +31,3 @@ We know that $\sqrt{2} \approx 1.414$. Therefore, for TIR to take place, the ref
 Looking at the given options, the only value greater than $1.414$ is **1.5**.
 
 Correct answer is **n = 1.5**.
-
-```

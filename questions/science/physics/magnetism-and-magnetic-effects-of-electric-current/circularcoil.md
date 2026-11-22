@@ -9,7 +9,9 @@ answers:
 
 **A circular coil of radius 5 cm and 50 turns carries a current of 3 ampere. The magnetic dipole moment of the coil is nearly**
 
-```markdown
+---
+
+
 The magnetic dipole moment (m) of a coil is given by:
 
 m = N × I × A
@@ -35,4 +37,3 @@ Rounding off to one decimal place:
 m ≈ 1.2 A m²
 
 Therefore, the magnetic dipole moment of the coil is nearly **1.2 A m²**.
-```

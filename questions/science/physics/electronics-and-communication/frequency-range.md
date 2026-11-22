@@ -10,7 +10,9 @@ answers:
 
 **The frequency range of 3 MHz to 30 MHz is used for**
 
-```markdown
+---
+
+
 The frequency range of **3 MHz to 30 MHz** (HF band) is used for **Sky wave propagation**.  
 In this range, radio waves are reflected by the ionosphere back to Earth, enabling long-distance communication beyond the horizon.
 
@@ -20,4 +22,3 @@ In this range, radio waves are reflected by the ionosphere back to Earth, enabli
 - **Satellite communication** — uses very high frequencies (GHz range).
 
 Therefore, the correct answer is **"Sky wave propagation"**.
-```

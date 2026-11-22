@@ -9,7 +9,9 @@ answers:
 
 **When a metallic surface is illuminated with radiation of wavelength λ, the stopping potential is V. If the same surface is illuminated with radiation of wavelength 2λ, the stopping potential is V/4. The threshold wavelength for the metallic surface is**
 
-```markdown
+---
+
+
 Einstein's photoelectric equation:
 
 eV₀ = hc/λ - φ  (where φ = hc/λ₀, λ₀ = threshold wavelength)
@@ -41,4 +43,3 @@ Dividing (1) by (2):
 Therefore, the threshold wavelength is **3λ**.
 
 Correct answer: **3λ**
-```
