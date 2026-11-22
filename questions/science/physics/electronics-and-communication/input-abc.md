@@ -10,7 +10,7 @@ answers:
 
 **The output of the following circuit is 1 when the input ABC is**
 
-![](Ch-13.png) 
+![](ch-13.png) 
 
 ```markdown
 To determine when the output is 1, we need to analyze the given logic circuit (circuit diagram required for exact verification).
